@@ -1,3 +1,6 @@
+<p align="center">
+        <img src="./img/wave.svg" alt="Github Stats" />
+</p>
 <p align="center"><a href="https://github.com/Unsigned-Long"><img width="60%" alt="Hello, I'm Ulong2!" src="./img/me.png" /></a></p>
 
 <br />I'm currently a bachelor's candidate at Wuhan University. My area of research currently focuses on integrated navigation systems and multi-sensor fusion.
@@ -20,6 +23,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
  </p>
+
 
 
 
@@ -61,3 +65,8 @@
 <a href="https://space.bilibili.com/472061452?spm_id_from=333.1007.0.0">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="45px" src="./img/wechat.png" />
 </a>
+
+<p align="center">
+        <img src="./img/wave2.svg" alt="Github Stats" />
+</p>
+
