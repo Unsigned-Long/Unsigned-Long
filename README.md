@@ -20,7 +20,11 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
  </p>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Unsigned-Long&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unsigned-Long&layout=compact&theme=buefy&hide_border=true" /></a>
+
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Unsigned-Long&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unsigned-Long&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 #### Repositories
 
@@ -51,9 +55,9 @@
 <br />
 
 <a href="https://mp.weixin.qq.com/s?__biz=Mzg5NzU3Nzk0OQ==&mid=2247483715&idx=1&sn=0c45002689ff2084a2c4d550ec05825e&chksm=c06ee7f1f7196ee7db7e97e5e8809702e3d9488b6672ecae91dab87aad26a478e7f370e4d4d8#rd">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="65px" src="./img/bilibili.jpeg" />
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="45px" src="./img/bilibili.jpeg" />
 </a>
 
 <a href="https://space.bilibili.com/472061452?spm_id_from=333.1007.0.0">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="55px" src="./img/wechat.png" />
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="45px" src="./img/wechat.png" />
 </a>
