@@ -59,11 +59,11 @@
 <br />
 
 <a href="https://mp.weixin.qq.com/s?__biz=Mzg5NzU3Nzk0OQ==&mid=2247483715&idx=1&sn=0c45002689ff2084a2c4d550ec05825e&chksm=c06ee7f1f7196ee7db7e97e5e8809702e3d9488b6672ecae91dab87aad26a478e7f370e4d4d8#rd">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="45px" src="./img/bilibili.jpeg" />
+  <img align="center" alt="Anurag Hazra | CodeSandbox" width="45px" src="./img/bilibili.jpeg" />
 </a>
 
 <a href="https://space.bilibili.com/472061452?spm_id_from=333.1007.0.0">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="45px" src="./img/wechat.png" />
+  <img align="center" alt="Anurag Hazra | CodeSandbox" width="35px" src="./img/wechat.png" />
 </a>
 
 <p align="center">
