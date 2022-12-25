@@ -32,10 +32,17 @@
 
 #### Repositories
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=CSV-Handler&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=kinect-controller&theme=buefy" /></a> |
-| ------------- | ------------- |
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=flags&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=slam-tricks&theme=buefy" /></a> |
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=Timer&theme=buefy" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=slam-scene-viewer&theme=buefy" /></a> |
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=CSV-Handler&theme=buefy" /></a> 
+
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=kinect-controller&theme=buefy" /></a> 
+
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=flags&theme=buefy" /></a>  
+
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=slam-tricks&theme=buefy" /></a> 
+
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=Timer&theme=buefy" /></a> 
+
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Unsigned-Long&repo=slam-scene-viewer&theme=buefy" /></a> 
 
 <br />
 <br />
@@ -51,4 +58,3 @@
 <p align="center">
         <img src="./img/wave2.svg" alt="Github Stats" />
 </p>
-
