@@ -12,6 +12,10 @@
 - I love writing cpp(cplusplus), and creating funny toy libraries.
 - Ask me about anything [here](https://github.com/Unsigned-Long/Unsigned-Long/issues).
 
+#### Interesting Point
+
+So why is my nickname **ULong2**? ULong refers to the unsigned long data type inside cpp, which is a type capable of storing a large range of non-negative integer data. This somehow represents a person's desire to explore a wide range of knowledge and a positive (non-negative) mindset. And the number 2, yes, is my lucky number.
+
  <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
