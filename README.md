@@ -8,7 +8,7 @@
 #### About me
 
 - Student at [Wuhan University](https://www.whu.edu.cn/), e-mail: shlchen@whu.edu.cn.
-- I'm working on the calibration for a LiDAR/IMU/Camera system based on Continue-time theory currently, the project [LIC_Calib](https://github.com/Unsigned-Long/LIC-Calib) will be open source when necessary.
+- I'm working on the spatiotemporal calibration for a multi-sensor system based on Continue-time theory currently, corresponding projects, i.e., [LIC_Calib](https://github.com/Unsigned-Long/LIC-Calib), [ELIC_Calib](https://github.com/Unsigned-Long/ELIC-Calib) and [RIC_Calib](https://github.com/Unsigned-Long/RIC-Calib), will be open source when necessary.
 - I love writing cpp(cplusplus), and creating funny toy libraries.
 - Ask me about anything [here](https://github.com/Unsigned-Long/Unsigned-Long/issues).
 
