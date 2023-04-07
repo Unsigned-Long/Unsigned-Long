@@ -31,7 +31,7 @@ So why is my nickname **ULong2**? ULong refers to the unsigned long data type in
 
 
 
-| <a href="https://github.com/Unsigned-Long"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api?username=Unsigned-Long&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Unsigned-Long"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/top-langs/?username=Unsigned-Long&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Unsigned-Long"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api?username=Unsigned-Long&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Unsigned-Long's github stats" /></a> | <a href="https://github.com/Unsigned-Long"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/top-langs/?username=Unsigned-Long&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Repositories
