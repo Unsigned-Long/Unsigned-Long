@@ -3,12 +3,12 @@
 </p>
 <p align="center"><a href="https://github.com/Unsigned-Long"><img width="60%" alt="Hello, I'm Ulong2!" src="./img/me.png" /></a></p>
 
-<br />I'm currently a bachelor's candidate at Wuhan University. My area of research currently focuses on integrated navigation systems and multi-sensor fusion.
+<br />I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan University. My area of research currently focuses on integrated navigation systems and multi-sensor fusion.
 
 #### About me
 
 - Student at [Wuhan University](https://www.whu.edu.cn/), e-mail: shlchen@whu.edu.cn.
-- I'm working on the spatiotemporal calibration for multi-sensor systems based on continue-time estimation currently, corresponding projects, i.e., [LIC_Calib](https://github.com/Unsigned-Long/LIC-Calib), [ELIC_Calib](https://github.com/Unsigned-Long/ELIC-Calib) and [RIC_Calib](https://github.com/Unsigned-Long/RIC-Calib), will be open source when necessary.
+- I'm working on the spatiotemporal calibration for multi-sensor systems based on continue-time estimation currently, corresponding projects, i.e., [LIC_Calib](https://github.com/Unsigned-Long/LIC-Calib), [ELIC_Calib](https://github.com/Unsigned-Long/ELIC-Calib) and [RIs_Calib](https://github.com/Unsigned-Long/RIs-Calib), will be open source when necessary.
 - I love writing cpp (cplusplus), and creating funny toy libraries.
 - Ask me about anything [here](https://github.com/Unsigned-Long/Unsigned-Long/issues).
 
