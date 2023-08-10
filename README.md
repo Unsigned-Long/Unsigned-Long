@@ -1,15 +1,20 @@
 <p align="center">
         <img src="./img/wave.svg" alt="Github Stats" />
 </p>
-<p align="center"><a href="https://github.com/Unsigned-Long"><img width="60%" alt="Hello, I'm Ulong2!" src="./img/me.png" /></a></p>
 
-<br />I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan University. My area of research currently focuses on integrated navigation systems and multi-sensor fusion.
+<p align="center">
+<a href="https://github.com/Unsigned-Long">
+<img width="60%" alt="Hello, I'm Ulong2!" src="./img/me.png" />
+</a>
+</p> 
 
-#### About me
+<br/>I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan University. My area of research currently focuses on integrated navigation systems and multi-sensor fusion.
+
+#### About Me
 
 - Student at [Wuhan University](https://www.whu.edu.cn/), e-mail: shlchen@whu.edu.cn.
 - I'm working on the spatiotemporal calibration for multi-sensor systems based on continue-time estimation currently, corresponding projects, i.e., [LIC_Calib](https://github.com/Unsigned-Long/LIC-Calib), [ELIC_Calib](https://github.com/Unsigned-Long/ELIC-Calib) and [RIs_Calib](https://github.com/Unsigned-Long/RIs-Calib), will be open source when necessary.
-- I love writing cpp (cplusplus), and creating funny toy libraries.
+- I love photography, I also love writing cpp (cplusplus) and creating funny toy libraries.
 - Ask me about anything [here](https://github.com/Unsigned-Long/Unsigned-Long/issues).
 
 #### Interesting Point
@@ -36,7 +41,7 @@ So why is my nickname **ULong2**? ULong refers to the unsigned long data type in
 
 #### Repositories
 
- <a href="https://github.com/Unsigned-Long/CSV-Handler"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=CSV-Handler&theme=buefy" /></a>  <a href="https://github.com/Unsigned-Long/kinect-controller"><img align="right" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=kinect-controller&theme=buefy" /></a> 
+ <a href="https://github.com/Unsigned-Long/CSV-Handler"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=CSV-Handler&theme=buefy" /></a>  <a href="https://github.com/Unsigned-Long/CTraj"><img align="right" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=CTraj&theme=buefy" /></a> 
 
  <a href="https://github.com/Unsigned-Long/flags"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=flags&theme=buefy" /></a>  <a href="https://github.com/Unsigned-Long/slam-tricks"><img align="right" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=slam-tricks&theme=buefy" /></a> 
 
@@ -53,5 +58,6 @@ So why is my nickname **ULong2**? ULong refers to the unsigned long data type in
 </a>
 
 <p align="center">
-        <img src="./img/wave2.svg" alt="Github Stats" />
+        <img src="./img/Z30_1298_S.jpg" alt="Z30" />
+        <!-- <img src="./img/wave2.svg" alt="Github Stats" /> -->
 </p>
