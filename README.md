@@ -21,6 +21,12 @@
 
 So why is my nickname **ULong2**? ULong refers to the unsigned long data type inside cpp, which is a type capable of storing a large range of non-negative integer data. This somehow represents my desire to explore a wide range of knowledge and a positive (non-negative) mindset. Interestingly, 'long' is also the pinyin for one of the Chinese characters in my name. And the number 2, yes, is my lucky number.
 
+<div align=center>
+<a href="https://www.bilibili.com/video/BV1fu4y1B7Ha/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d" title="Photography Sharing">
+<img src="img/video.png" alt="Photography Sharing" width='100%'/>
+</a>
+</div>
+
  <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -33,9 +39,6 @@ So why is my nickname **ULong2**? ULong refers to the unsigned long data type in
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
  </p>
 
-
-
-
 | <a href="https://github.com/Unsigned-Long"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api?username=Unsigned-Long&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Unsigned-Long's github stats" /></a> | <a href="https://github.com/Unsigned-Long"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/top-langs/?username=Unsigned-Long&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -47,6 +50,7 @@ So why is my nickname **ULong2**? ULong refers to the unsigned long data type in
 
  <a href="https://github.com/Unsigned-Long/Timer"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=Timer&theme=buefy" /></a>  <a href="https://github.com/Unsigned-Long/tiny-viewer"><img align="right" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=tiny-viewer&theme=buefy" /></a> 
 <br />
+<br />
 
 <a href="https://mp.weixin.qq.com/s?__biz=Mzg5NzU3Nzk0OQ==&mid=2247483715&idx=1&sn=0c45002689ff2084a2c4d550ec05825e&chksm=c06ee7f1f7196ee7db7e97e5e8809702e3d9488b6672ecae91dab87aad26a478e7f370e4d4d8#rd">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="35px" src="./img/wechat.png" />
@@ -55,9 +59,7 @@ So why is my nickname **ULong2**? ULong refers to the unsigned long data type in
 <a href="https://space.bilibili.com/472061452?spm_id_from=333.1007.0.0">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="40px" src="./img/bilibili.jpeg" />
 </a>
-<br />
 
 <p align="center">
-        <img src="./img/Z30_1298_S.jpg" alt="Z30" />
-        <!-- <img src="./img/wave2.svg" alt="Github Stats" /> -->
+        <img src="./img/wave2.svg" alt="Github Stats" />
 </p>
