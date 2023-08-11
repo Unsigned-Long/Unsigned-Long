@@ -26,6 +26,7 @@ So why is my nickname **ULong2**? ULong refers to the unsigned long data type in
 <img src="img/video.png" alt="Photography Sharing" width='100%'/>
 </a>
 </div>
+<br/>
 
  <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
