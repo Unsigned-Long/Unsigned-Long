@@ -7,8 +7,7 @@
 <img width="60%" alt="Hello, I'm Ulong2!" src="./img/me.png" />
 </a>
 </p> 
-
-<br/>I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan University. My area of research currently focuses on integrated navigation systems and multi-sensor fusion.
+I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan University. My area of research currently focuses on integrated navigation systems and multi-sensor fusion.
 
 #### About Me
 
@@ -19,14 +18,27 @@
 
 #### Interesting Point
 
-So why is my nickname **ULong2**? ULong refers to the unsigned long data type inside cpp, which is a type capable of storing a large range of non-negative integer data. This somehow represents my desire to explore a wide range of knowledge and a positive (non-negative) mindset. Interestingly, 'long' is also the pinyin for one of the Chinese characters in my name. And the number 2, yes, is my lucky number.
+So why is my nickname **ULong2**? `ULong` is a data type in C++ that stands for `unsigned long integer`. It is a 32-bit unsigned integer type, which means it can store a large number without sign, but no negative numbers allowed. This somehow represents my desire to explore a wide range of knowledge and a positive (non-negative) mindset. Interestingly, `Long` is also the pinyin for one of the Chinese characters in my name. And the number `2`, yes, is my lucky number.
+
+#### My BiliBili Channel
+
+<hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
 
 <div align=center>
-<a href="https://www.bilibili.com/video/BV1fu4y1B7Ha/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d" title="Photography Sharing">
-<img src="img/video.png" alt="Photography Sharing" width='100%'/>
+<a href="https://www.bilibili.com/video/BV1k14y1Q7rX/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d">
+    <img src="img/video1.jpg" alt="Photography Sharing" width='32%'/>
+</a>
+<a href="https://www.bilibili.com/video/BV1WN411v7r7/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d">
+    <img src="img/video2.jpg" alt="Photography Sharing" width='32%'/>
+</a>
+<a href="https://www.bilibili.com/video/BV1fu4y1B7Ha/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d">
+    <img src="img/video3.jpg" alt="Photography Sharing" width='32%'/>
 </a>
 </div>
-<br/>
+
+<hr style=" height:4px;border:none;border-top:4px solid #f34b7d;border-bottom:4px solid #8a589f;" />
+
+#### My Status
 
  <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -50,16 +62,7 @@ So why is my nickname **ULong2**? ULong refers to the unsigned long data type in
  <a href="https://github.com/Unsigned-Long/flags"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=flags&theme=buefy" /></a>  <a href="https://github.com/Unsigned-Long/slam-tricks"><img align="right" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=slam-tricks&theme=buefy" /></a> 
 
  <a href="https://github.com/Unsigned-Long/Timer"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=Timer&theme=buefy" /></a>  <a href="https://github.com/Unsigned-Long/tiny-viewer"><img align="right" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=tiny-viewer&theme=buefy" /></a> 
-<br />
-<br />
 
-<a href="https://mp.weixin.qq.com/s?__biz=Mzg5NzU3Nzk0OQ==&mid=2247483715&idx=1&sn=0c45002689ff2084a2c4d550ec05825e&chksm=c06ee7f1f7196ee7db7e97e5e8809702e3d9488b6672ecae91dab87aad26a478e7f370e4d4d8#rd">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="35px" src="./img/wechat.png" />
-</a>
-
-<a href="https://space.bilibili.com/472061452?spm_id_from=333.1007.0.0">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="40px" src="./img/bilibili.jpeg" />
-</a>
 
 <p align="center">
         <img src="./img/wave2.svg" alt="Github Stats" />
