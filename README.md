@@ -12,7 +12,7 @@ I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan U
 #### About Me
 
 - Student at [Wuhan University](https://www.whu.edu.cn/), e-mail: shlchen@whu.edu.cn.
-- I'm working on the spatiotemporal calibration for multi-sensor systems based on continue-time estimation currently, corresponding projects, i.e., [LIC_Calib](https://github.com/Unsigned-Long/LIC-Calib), [ELIC_Calib](https://github.com/Unsigned-Long/ELIC-Calib) and [RIs_Calib](https://github.com/Unsigned-Long/RIs-Calib), will be open source when necessary.
+- I'm working on the continue-time-based (B-spline-based) state estimation currently, corresponding projects, i.e., [LIC_Calib](https://github.com/Unsigned-Long/LIC-Calib), [ELIC_Calib](https://github.com/Unsigned-Long/ELIC-Calib), [RIs_Calib](https://github.com/Unsigned-Long/RIs-Calib) (under review), and [River](https://github.com/Unsigned-Long/River.git) (under review), would be open-source soon.
 - I love photography, I also love writing cpp (cplusplus) and creating funny toy libraries.
 - Ask me about anything [here](https://github.com/Unsigned-Long/Unsigned-Long/issues).
 
