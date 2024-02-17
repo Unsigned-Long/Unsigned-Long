@@ -12,9 +12,21 @@ I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan U
 #### About Me
 
 - Student at [Wuhan University](https://www.whu.edu.cn/), e-mail: shlchen@whu.edu.cn.
-- I'm working on the continue-time-based (B-spline-based) state estimation currently, corresponding projects, i.e., [LIC_Calib](https://github.com/Unsigned-Long/LIC-Calib), [ELIC_Calib](https://github.com/Unsigned-Long/ELIC-Calib), [RIs_Calib](https://github.com/Unsigned-Long/RIs-Calib) (under review), and [River](https://github.com/Unsigned-Long/River.git) (under review), would be open-source soon.
+- I'm working on the continue-time-based (B-spline-based) state estimation currently, corresponding projects would be open-source soon, :laughing:.
 - I love photography, I also love writing cpp (cplusplus) and creating funny toy libraries.
 - Ask me about anything [here](https://github.com/Unsigned-Long/Unsigned-Long/issues).
+
+#### Research works
+
+- [**LIC-Calib**](https://github.com/Unsigned-Long/LIC-Calib): a targetless continuous-time-based LiDAR/IMU/Camera **spatiotemporal calibrator**, supporting both GS and RS cameras. Related paper(s): 
+  - [*Two-Step LiDAR/Camera/IMU Spatial and Temporal Calibration Based on Continuous-Time Trajectory Estimation*](https://ieeexplore.ieee.org/document/10113826)
+  -  [*Accurate and Consistent Spatiotemporal Calibration for Heterogenous-Camera/IMU/LiDAR System Based on Continuous-Time Batch Estimation*](https://ieeexplore.ieee.org/document/10288412)
+- [**ELIC-Calib**](https://github.com/Unsigned-Long/ELIC-Calib): the extend version of `LIC-Calib`, a targetless continuous-time-based multi-LiDAR multi-IMU multi-camera **spatiotemporal calibrator**. Related paper(s):
+  - [*Targetless Spatiotemporal Calibration for Multiple Heterogeneous Cameras and IMUs Based on Continuous-Time Trajectory Estimation*](https://ieeexplore.ieee.org/document/10301598)
+  - [*Targetless Spatiotemporal Calibration of Multi-LiDAR Multi-IMU System based on Continuous-time Optimization*]()
+- [**RIs-Calib**](https://github.com/Unsigned-Long/RIs-Calib) (under review:sleeping:): a targetless continuous-time-based multi-radar multi-IMU **spatiotemporal calibrator**.
+- [**River**](https://github.com/Unsigned-Long/River.git) (under review:sleeping:): a continuous-time-based radar/inertial **velocity estimator**.
+- [**MI-Calib**](https://github.com/Unsigned-Long/MI-Calib.git) (under review:sleeping:): a continuous-time-based multi-IMU **spatiotemporal calibrator**.
 
 #### Interesting Point
 
