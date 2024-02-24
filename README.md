@@ -23,7 +23,7 @@ I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan U
   -  [*Accurate and Consistent Spatiotemporal Calibration for Heterogenous-Camera/IMU/LiDAR System Based on Continuous-Time Batch Estimation*](https://ieeexplore.ieee.org/document/10288412)
 - [**ELIC-Calib**](https://github.com/Unsigned-Long/ELIC-Calib): the extend version of `LIC-Calib`, a targetless continuous-time-based multi-LiDAR multi-IMU multi-camera **spatiotemporal calibrator**. Related paper(s) :point_up::
   - [*Targetless Spatiotemporal Calibration for Multiple Heterogeneous Cameras and IMUs Based on Continuous-Time Trajectory Estimation*](https://ieeexplore.ieee.org/document/10301598)
-  - [*Targetless Spatiotemporal Calibration of Multi-LiDAR Multi-IMU System based on Continuous-time Optimization*]()
+  - [*Targetless Spatiotemporal Calibration of Multi-LiDAR Multi-IMU System based on Continuous-time Optimization*](https://ieeexplore.ieee.org/document/10443246/authors#authors)
 - [**RIs-Calib**](https://github.com/Unsigned-Long/RIs-Calib) (under review :sleeping:): a targetless continuous-time-based multi-radar multi-IMU **spatiotemporal calibrator**.
 - [**River**](https://github.com/Unsigned-Long/River.git) (under review :sleeping:): a continuous-time-based radar/inertial **velocity estimator**.
 - [**MI-Calib**](https://github.com/Unsigned-Long/MI-Calib.git) (under review :sleeping:): a continuous-time-based multi-IMU **spatiotemporal calibrator**.
