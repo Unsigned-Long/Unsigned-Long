@@ -30,7 +30,7 @@ I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan U
 
 #### Interesting Point
 
-So why is my nickname **ULong2** :smiley:? `ULong` is a data type in C++ that stands for `unsigned long integer`. It is a 32-bit unsigned integer type, which means it can store a large number without sign, but no negative numbers allowed. This somehow represents my desire to explore a wide range of knowledge and a positive (non-negative) mindset. Interestingly, `Long` is also the pinyin for one of the Chinese characters in my name. And the number `2`, yes, is my lucky number.
+So why is my nickname **ULong2** :smiley:? `ULong` is a data type in C++ that stands for `unsigned long integer`, which can store a large number, but no negative numbers are allowed. This represents my desire to explore a wide range of knowledge and a positive (non-negative) mindset. Interestingly, `Long` is also the pinyin for one of the Chinese characters in my name. And the number `2`, yes, is my lucky number.
 
 #### My BiliBili Channel
 
