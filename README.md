@@ -51,6 +51,16 @@ So why is my nickname **ULong2** :smiley:? `ULong` is a data type in C++ that st
 <hr style=" height:4px;border:none;border-top:4px solid #f34b7d;border-bottom:4px solid #8a589f;" />
 
 #### My Status
+        
+<div align=center>
+
+|<a href="https://github.com/Unsigned-Long"><img align="left" src="https://github-readme-stats-unsigned-long.vercel.app/api?username=Unsigned-Long&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Unsigned-Long's github stats" /></a>|<a href="https://github.com/Unsigned-Long"><img align="right" src="https://github-readme-stats-unsigned-long.vercel.app/api/top-langs/?username=Unsigned-Long&layout=compact&theme=buefy&hide_border=true" /></a>|
+|  :---:  |  ---:  |
+
+</div>
+
+
+<div align=center>
 
  <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -63,9 +73,8 @@ So why is my nickname **ULong2** :smiley:? `ULong` is a data type in C++ that st
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
  </p>
-
-<a href="https://github.com/Unsigned-Long"><img align="left" src="https://github-readme-stats-unsigned-long.vercel.app/api?username=Unsigned-Long&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Unsigned-Long's github stats" /></a>
-<a href="https://github.com/Unsigned-Long"><img align="right" src="https://github-readme-stats-unsigned-long.vercel.app/api/top-langs/?username=Unsigned-Long&layout=compact&theme=buefy&hide_border=true" /></a>
+        
+</div>
 
 <p align="center">
         <img src="./img/wave2.svg" alt="Github Stats" />
