@@ -64,22 +64,8 @@ So why is my nickname **ULong2** :smiley:? `ULong` is a data type in C++ that st
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
  </p>
 
-| <a href="https://github.com/Unsigned-Long"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api?username=Unsigned-Long&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Unsigned-Long's github stats" /></a> | <a href="https://github.com/Unsigned-Long"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/top-langs/?username=Unsigned-Long&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Repositories
-
-
- <a href="https://github.com/Unsigned-Long/RIs-Calib"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=RIs-Calib&theme=buefy" /></a> 
- <a href="https://github.com/Unsigned-Long/River"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=River&theme=buefy" /></a>
- 
- <a href="https://github.com/Unsigned-Long/CTraj"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=CTraj&theme=buefy" /></a> 
- <a href="https://github.com/Unsigned-Long/tiny-viewer"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=tiny-viewer&theme=buefy" /></a> 
- 
-<a href="https://github.com/Unsigned-Long/flags"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=flags&theme=buefy" /></a> 
-<a href="https://github.com/Unsigned-Long/slam-tricks"><img align="center" src="https://github-readme-stats-unsigned-long.vercel.app/api/pin/?username=Unsigned-Long&repo=slam-tricks&theme=buefy" /></a> 
-
-
+<a href="https://github.com/Unsigned-Long"><img align="left" src="https://github-readme-stats-unsigned-long.vercel.app/api?username=Unsigned-Long&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Unsigned-Long's github stats" /></a>
+<a href="https://github.com/Unsigned-Long"><img align="right" src="https://github-readme-stats-unsigned-long.vercel.app/api/top-langs/?username=Unsigned-Long&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <p align="center">
         <img src="./img/wave2.svg" alt="Github Stats" />
