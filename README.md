@@ -16,6 +16,25 @@ I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan U
 - I love photography, I also love writing cpp (cplusplus) and creating funny toy libraries.
 - Ask me about anything [here](https://github.com/Unsigned-Long/Unsigned-Long/issues).
 
+#### Open-source works
+
+<hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
+
++ [**RIs-Calib**](https://github.com/Unsigned-Long/RIs-Calib): a targetless continuous-time-based multi-radar multi-IMU **spatiotemporal calibrator**.
+
++ [**River**](https://github.com/Unsigned-Long/River.git): a continuous-time-based radar-inertial **velocity estimator**.
+
+  <div align=center>
+   <a href="https://github.com/Unsigned-Long/RIs-Calib">
+      <img src="img/ico-ris-calib.jpg" alt="RIs-Calib" width='60%'/>
+  </a>
+  <a href="https://github.com/Unsigned-Long/River">
+      <img src="img/ico-river.jpg" alt="River" width='38%'/>
+  </a>
+  </div>
+
+<hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
+
 #### Research works
 
 - [**LIC-Calib**](https://github.com/Unsigned-Long/LIC-Calib): a targetless continuous-time-based LiDAR/IMU/Camera **spatiotemporal calibrator**, supporting both GS and RS cameras. Related paper(s) :point_down:: 
@@ -51,7 +70,7 @@ So why is my nickname **ULong2** :smiley:? `ULong` is a data type in C++ that st
 <hr style=" height:4px;border:none;border-top:4px solid #f34b7d;border-bottom:4px solid #8a589f;" />
 
 #### My Status
-        
+
 <div align=center>
 
 |<a href="https://github.com/Unsigned-Long"><img align="left" src="https://github-readme-stats-unsigned-long.vercel.app/api?username=Unsigned-Long&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Unsigned-Long's github stats" /></a>|<a href="https://github.com/Unsigned-Long"><img align="right" src="https://github-readme-stats-unsigned-long.vercel.app/api/top-langs/?username=Unsigned-Long&layout=compact&theme=buefy&hide_border=true" /></a>|
@@ -73,7 +92,6 @@ So why is my nickname **ULong2** :smiley:? `ULong` is a data type in C++ that st
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
  </p>
-        
 </div>
 
 <p align="center">
