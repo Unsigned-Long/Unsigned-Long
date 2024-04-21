@@ -26,12 +26,13 @@ I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan U
 <hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
   <div align=center>
    <a href="https://github.com/Unsigned-Long/RIs-Calib">
-      <img src="img/ico-ris-calib.jpg" alt="RIs-Calib" width='60%'/>
+      <img src="img/ris-calib.png" alt="RIs-Calib" width='49%'/>
   </a>
   <a href="https://github.com/Unsigned-Long/River">
-      <img src="img/ico-river.jpg" alt="River" width='38%'/>
+      <img src="img/river.png" alt="River" width='49%'/>
   </a>
   </div>
+
 
 <hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
 
