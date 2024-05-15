@@ -41,14 +41,14 @@ I'm currently a master candidate at the school of Geodesy and Geomatics, Wuhan U
 #### Research works
 
 - **LIC-Calib**: a targetless continuous-time-based LiDAR/IMU/Camera **spatiotemporal calibrator**, supporting both GS and RS cameras. Related paper(s) :point_down:: 
-  - [*Two-Step LiDAR/Camera/IMU Spatial and Temporal Calibration Based on Continuous-Time Trajectory Estimation*](https://ieeexplore.ieee.org/document/10113826)
-  -  [*Accurate and Consistent Spatiotemporal Calibration for Heterogenous-Camera/IMU/LiDAR System Based on Continuous-Time Batch Estimation*](https://ieeexplore.ieee.org/document/10288412)
+  - *[IEEE T-IE 2023]* [*Two-Step LiDAR/Camera/IMU Spatial and Temporal Calibration Based on Continuous-Time Trajectory Estimation*](https://ieeexplore.ieee.org/document/10113826)
+  -  *[IEEE T-Mech 2023]* [*Accurate and Consistent Spatiotemporal Calibration for Heterogenous-Camera/IMU/LiDAR System Based on Continuous-Time Batch Estimation*](https://ieeexplore.ieee.org/document/10288412)
 - **ELIC-Calib**: the extend version of `LIC-Calib`, a targetless continuous-time-based multi-LiDAR multi-IMU multi-camera **spatiotemporal calibrator**. Related paper(s) :point_down::
-  - [*Targetless Spatiotemporal Calibration for Multiple Heterogeneous Cameras and IMUs Based on Continuous-Time Trajectory Estimation*](https://ieeexplore.ieee.org/document/10301598)
-  - [*Targetless Spatiotemporal Calibration of Multi-LiDAR Multi-IMU System based on Continuous-time Optimization*](https://ieeexplore.ieee.org/document/10443246)
+  - *[IEEE T-IM 2023]* [*Targetless Spatiotemporal Calibration for Multiple Heterogeneous Cameras and IMUs Based on Continuous-Time Trajectory Estimation*](https://ieeexplore.ieee.org/document/10301598)
+  - *[IEEE T-II 2024]* [*Targetless Spatiotemporal Calibration of Multi-LiDAR Multi-IMU System based on Continuous-time Optimization*](https://ieeexplore.ieee.org/document/10443246)
 - [**RIs-Calib**](https://github.com/Unsigned-Long/RIs-Calib) (open-source, under review ​currently :sleeping:): a targetless continuous-time-based multi-radar multi-IMU **spatiotemporal calibrator**.
 - [**River**](https://github.com/Unsigned-Long/River) (open-source): a continuous-time-based radar/inertial **velocity estimator**.  Related paper(s) :point_down::
-  - *[River: A Tightly-coupled Radar-inertial Velocity Estimator Based on Continuous-time Optimization](https://ieeexplore.ieee.org/document/10529532)*
+  - *[IEEE RA-L 2024]* *[River: A Tightly-coupled Radar-inertial Velocity Estimator Based on Continuous-time Optimization](https://ieeexplore.ieee.org/document/10529532)*
 
 - [**MI-Calib**](https://github.com/Unsigned-Long/MI-Calib) (open-source, under review currently :sleeping:): a continuous-time-based multi-IMU **spatiotemporal calibrator**.
 
