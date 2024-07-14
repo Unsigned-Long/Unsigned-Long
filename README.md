@@ -7,7 +7,8 @@
 <img width="60%" alt="Hello, I'm Ulong2!" src="./img/me.png" />
 </a>
 </p> 
-I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](http://www.sgg.whu.edu.cn/)), Wuhan University ([WHU](https://www.whu.edu.cn/)). My area of research currently focuses on integrated navigation systems and multi-sensor fusion. I'm working on the continue-time-based (B-spline-based) state estimation currently :smiley:.
+
+I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](http://www.sgg.whu.edu.cn)), Wuhan University ([WHU](https://www.whu.edu.cn/)). My area of research currently focuses on integrated navigation systems and multi-sensor fusion. I'm working on the continue-time-based (B-spline-based) state estimation currently :smiley:.
 
 #### About Me
 
