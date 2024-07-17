@@ -21,6 +21,7 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 + [**RIs-Calib**](https://github.com/Unsigned-Long/RIs-Calib): a targetless continuous-time-based multi-radar multi-IMU **spatiotemporal calibrator**.
 + [**River**](https://github.com/Unsigned-Long/River.git): a continuous-time-based radar-inertial **velocity estimator**.
 + [**MI-Calib**](https://github.com/Unsigned-Long/MI-Calib): a continuous-time-based imu-only multi-IMU **spatiotemporal calibrator**.
++ **[iKalibr](https://github.com/Unsigned-Long/iKalibr.git)**: **unified** targetless spatiotemporal calibration for **resilient integrated inertial systems**.
 
 <hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
   <div align=center>
@@ -33,16 +34,21 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
   <a href="https://github.com/Unsigned-Long/MI-Calib">
       <img src="img/mi-calib.png" alt="MII-Calib" width='33%'/>
   </a>
+    <a href="https://github.com/Unsigned-Long/iKalibr.git">
+      <img src="img/logo.svg" alt="iKalibr" width='90%'/>
+  </a>
   </div>
-
 
 
 <hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
 
 #### Research Works
 
-- **MI-Calib** (under review :sleeping:): a continuous-time-based multi-IMU **spatiotemporal calibrator**. Related paper(s) :point_down::
-  - **S. Chen**, X. Li*, S. Li, Y. Zhou and S. Wang, "MI-Calib: An Open-Source Spatiotemporal Calibrator for Multiple IMUs Based on Continuous-Time Batch Optimization," in IEEE Robotics and Automation Letters (RA-L), 2024. [[code](https://github.com/Unsigned-Long/MI-Calib.git)] [[video](https://www.bilibili.com/video/BV1hK4y1i7uM/)]
+- **iKalibr** (under review :sleeping:): a continuous-time, targetless, unified **spatiotemporal calibrator**. Related paper(s) :point_down::
+  - **S. Chen**, X. Li*, S. Li, Y. Zhou and X. Yang, iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems[J]. arXiv:2407.11420 [cs.RO]. [[paper-arXiv](https://arxiv.org/abs/2407.11420)] [[video](https://www.bilibili.com/video/BV1Dm421G7FV/?vd_source=87245258ec5029cca67d77cef1a6201d)]
+
+- **MI-Calib**: a continuous-time-based multi-IMU **spatiotemporal calibrator**. Related paper(s) :point_down::
+  - **S. Chen**, X. Li*, S. Li, Y. Zhou and S. Wang, "MI-Calib: An Open-Source Spatiotemporal Calibrator for Multiple IMUs Based on Continuous-Time Batch Optimization," in IEEE Robotics and Automation Letters (RA-L), 2024. [[paper]()] [[code](https://github.com/Unsigned-Long/MI-Calib.git)] [[video](https://www.bilibili.com/video/BV1hK4y1i7uM/)]
 
 - **River**: a continuous-time-based radar-inertial **velocity estimator**.  Related paper(s) :point_down::
   - **S. Chen**, X. Li*, S. Li, Y. Zhou and S. Wang, "River: A Tightly-Coupled Radar-Inertial Velocity Estimator Based on Continuous-Time Optimization," in IEEE Robotics and Automation Letters (RA-L), 2024. [[paper](https://ieeexplore.ieee.org/document/10529532)] [[code](https://github.com/Unsigned-Long/River)] [[video](https://www.bilibili.com/video/BV15D421W7NX/)]
