@@ -1,2 +1,6 @@
 /drawio/*.bkp
 /drawio/*.dtmp
+.idea
+/drawio/outdate.drawio
+/img/outdate.jpg
+/github-recovery-codes.txt
