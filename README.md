@@ -52,7 +52,7 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 
 - **River**: a continuous-time-based radar-inertial **velocity estimator**.  Related paper(s) :point_down::
   - **S. Chen**, X. Li*, S. Li, Y. Zhou and S. Wang, "River: A Tightly-Coupled Radar-Inertial Velocity Estimator Based on Continuous-Time Optimization," in IEEE Robotics and Automation Letters (RA-L), 2024. [[paper](https://ieeexplore.ieee.org/document/10529532)] [[code](https://github.com/Unsigned-Long/River)] [[video](https://www.bilibili.com/video/BV15D421W7NX/)]
-- **RIs-Calib**: a targetless multi-radar multi-IMU **spatiotemporal calibrator**. Related paper(s) :point_down::
+- **RIs-Calib** (under review :sleeping:): a targetless multi-radar multi-IMU **spatiotemporal calibrator**. Related paper(s) :point_down::
   - **S. Chen**, X. Li*, S. Li, Y. Zhou and S. Wang, RIs-Calib: An Open-Source Spatiotemporal Calibrator for Multiple 3D Radars And IMUs Based on Continuous-Time Estimation. arXiv:2408.02444 [cs.RO]. [[paper-arXiv](https://arxiv.org/abs/2408.02444)] [[code](https://github.com/Unsigned-Long/RIs-Calib)] [[video](https://www.bilibili.com/video/BV1pw411y7NR/?vd_source=87245258ec5029cca67d77cef1a6201d)]
 
 - **ELIC-Calib**: the extend version of `LIC-Calib`, a targetless continuous-time-based multi-LiDAR multi-IMU multi-camera **spatiotemporal calibrator**. Related paper(s) :point_down::
