@@ -18,28 +18,22 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 - Ask me about anything [here](https://github.com/Unsigned-Long/Unsigned-Long/issues).
 
 #### Open-Source Works
-+ [**RIs-Calib**](https://github.com/Unsigned-Long/RIs-Calib): a targetless continuous-time-based multi-radar multi-IMU **spatiotemporal calibrator**.
++ [**RIs-Calib**](https://github.com/Unsigned-Long/RIs-Calib.git): a targetless continuous-time-based multi-radar multi-IMU **spatiotemporal calibrator**.
 + [**River**](https://github.com/Unsigned-Long/River.git): a continuous-time-based radar-inertial **velocity estimator**.
-+ [**MI-Calib**](https://github.com/Unsigned-Long/MI-Calib): a continuous-time-based imu-only multi-IMU **spatiotemporal calibrator**.
++ [**MI-Calib**](https://github.com/Unsigned-Long/MI-Calib.git): a continuous-time-based imu-only multi-IMU **spatiotemporal calibrator**.
 + **[iKalibr](https://github.com/Unsigned-Long/iKalibr.git)**: **unified** targetless spatiotemporal calibration for **resilient integrated inertial systems**.
 
 <hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
-  <div align=center>
-   <a href="https://github.com/Unsigned-Long/RIs-Calib">
-      <img src="img/ris-calib.png" alt="RIs-Calib" width='33%'/>
-  </a>
-  <a href="https://github.com/Unsigned-Long/River">
-      <img src="img/river.png" alt="River" width='33%'/>
-  </a>
-  <a href="https://github.com/Unsigned-Long/MI-Calib">
-      <img src="img/mi-calib.png" alt="MII-Calib" width='33%'/>
-  </a>
-    <a href="https://github.com/Unsigned-Long/iKalibr.git">
-      <img src="img/logo.svg" alt="iKalibr" width='90%'/>
+  
+|[![RIs-Calib](img/ris-calib.png)](https://github.com/Unsigned-Long/RIs-Calib.git) | [![River](img/river.png)](https://github.com/Unsigned-Long/River.git) |[![MI-Calib](img/mi-calib.png)](https://github.com/Unsigned-Long/MI-Calib.git)|
+| :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
+
+<div align=center>
+<a href="https://github.com/Unsigned-Long/iKalibr.git">
+      <img src="img/logo.svg" alt="iKalibr"  style="width: 100vw; height: auto;"/>
   </a>
   </div>
-
-
+  
 <hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
 
 #### Research Works
@@ -71,17 +65,8 @@ So why is my nickname **ULong2** :smiley:? `ULong` is a data type in C++ that st
 
 <hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
 
-<div align=center>
-<a href="https://www.bilibili.com/video/BV1k14y1Q7rX/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d">
-    <img src="img/video1.jpg" alt="Photography Sharing" width='32%'/>
-</a>
-<a href="https://www.bilibili.com/video/BV1WN411v7r7/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d">
-    <img src="img/video2.jpg" alt="Photography Sharing" width='32%'/>
-</a>
-<a href="https://www.bilibili.com/video/BV1fu4y1B7Ha/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d">
-    <img src="img/video3.jpg" alt="Photography Sharing" width='32%'/>
-</a>
-</div>
+|[![RIs-Calib](img/video1.jpg)](https://www.bilibili.com/video/BV1k14y1Q7rX/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d) | [![River](img/video2.jpg)](https://www.bilibili.com/video/BV1WN411v7r7/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d) |[![MI-Calib](img/video3.jpg)](https://www.bilibili.com/video/BV1fu4y1B7Ha/?spm_id_from=333.999.0.0&vd_source=87245258ec5029cca67d77cef1a6201d)|
+| :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 
 <hr style=" height:4px;border:none;border-top:4px solid #f34b7d;border-bottom:4px solid #8a589f;" />
 
