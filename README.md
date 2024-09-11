@@ -23,22 +23,12 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 + [**MI-Calib**](https://github.com/Unsigned-Long/MI-Calib.git): a continuous-time-based imu-only multi-IMU **spatiotemporal calibrator**.
 + **[iKalibr](https://github.com/Unsigned-Long/iKalibr.git)**: **unified** targetless spatiotemporal calibration for **resilient integrated inertial systems**.
 
-  
-<hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
 
 |[![RIs-Calib](img/ris-calib.png)](https://github.com/Unsigned-Long/RIs-Calib.git) | [![River](img/river.png)](https://github.com/Unsigned-Long/River.git) |[![MI-Calib](img/mi-calib.png)](https://github.com/Unsigned-Long/MI-Calib.git)|
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 
-|<a href="https://github.com/Unsigned-Long"><img align="left" src="img/logo.svg" alt="Unsigned-Long's github stats" style="width: 100vw; height: auto;"/></a>|
+|<a href="https://github.com/Unsigned-Long/iKalibr.git"><img align="center" src="img/logo.svg" alt="iKalibr" style="width: 100vw; height: auto;"/></a>|
 | :-------------------------------------: |
-
-<div align=center>
-<a href="https://github.com/Unsigned-Long/iKalibr.git">
-      <img src="img/logo.svg" alt="iKalibr"  style="width: 100vw; height: auto;"/>
-  </a>
-  </div>
-
-<hr style=" height:4px;border:none;border-top:4px solid #8a589f;border-bottom:4px solid #f34b7d;" />
 
 #### Research Works
 
