@@ -34,6 +34,7 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 
 - **iKalibr** (under review :sleeping:): a continuous-time, targetless, unified **spatiotemporal calibrator**. Related paper(s) :point_down::
   - **S. Chen**, X. Li*, S. Li, Y. Zhou and X. Yang, iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems[J]. arXiv:2407.11420 [cs.RO]. [[paper-arXiv](https://arxiv.org/abs/2407.11420)] [[code](https://github.com/Unsigned-Long/iKalibr.git)] [[video](https://www.bilibili.com/video/BV1Dm421G7FV/?vd_source=87245258ec5029cca67d77cef1a6201d)]
+  - **S. Chen**, X. Li*, S. Li, and Y. Zhou. iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation[J]. arXiv:2409.07116 [cs.RO]. [[paper-arXiv](http://arxiv.org/abs/2409.07116)]
 
 - **MI-Calib**: a continuous-time-based multi-IMU **spatiotemporal calibrator**. Related paper(s) :point_down::
   - **S. Chen**, X. Li*, S. Li, Y. Zhou and S. Wang, "MI-Calib: An Open-Source Spatiotemporal Calibrator for Multiple IMUs Based on Continuous-Time Batch Optimization," in IEEE Robotics and Automation Letters (RA-L), 2024. [[paper](https://ieeexplore.ieee.org/document/10629054)] [[code](https://github.com/Unsigned-Long/MI-Calib.git)] [[video](https://www.bilibili.com/video/BV1hK4y1i7uM/)]
