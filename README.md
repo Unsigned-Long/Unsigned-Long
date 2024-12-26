@@ -32,8 +32,8 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 
 #### Research Works
 
-- **iKalibr** (under review :sleeping:): a continuous-time, targetless, unified **spatiotemporal calibrator**. Related paper(s) :point_down::
-  - **S. Chen**, X. Li*, S. Li*, Y. Zhou and X. Yang, iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems[J]. arXiv:2407.11420 [cs.RO]. [[paper-arXiv](https://arxiv.org/abs/2407.11420)] [[code](https://github.com/Unsigned-Long/iKalibr.git)] [[video](https://www.bilibili.com/video/BV1Dm421G7FV/?vd_source=87245258ec5029cca67d77cef1a6201d)]
+- **iKalibr**: a continuous-time, targetless, unified **spatiotemporal calibrator**. Related paper(s) :point_down::
+  - **S. Chen**, X. Li*, S. Li*, Y. Zhou and X. Yang, iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems[J]. arXiv:2407.11420 [cs.RO]. [[paper-arXiv](https://arxiv.org/abs/2407.11420)] [[code](https://github.com/Unsigned-Long/iKalibr.git)] [[video](https://www.bilibili.com/video/BV1Dm421G7FV/?vd_source=87245258ec5029cca67d77cef1a6201d)] [***under review*** :sleeping:]
   - **S. Chen**, X. Li*, S. Li and Y. Zhou, "iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation," in IEEE Robotics and Automation Letters (RA-L), 2024. [[paper](https://ieeexplore.ieee.org/document/10759744)] [[paper-arXiv](http://arxiv.org/abs/2409.07116)] [[code](https://github.com/Unsigned-Long/iKalibr.git)]
 
 - **MI-Calib**: a continuous-time-based multi-IMU **spatiotemporal calibrator**. Related paper(s) :point_down::
@@ -41,8 +41,8 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 
 - **River**: a continuous-time-based radar-inertial **velocity estimator**.  Related paper(s) :point_down::
   - **S. Chen**, X. Li*, S. Li, Y. Zhou and S. Wang, "River: A Tightly-Coupled Radar-Inertial Velocity Estimator Based on Continuous-Time Optimization," in IEEE Robotics and Automation Letters (RA-L), 2024. [[paper](https://ieeexplore.ieee.org/document/10529532)] [[code](https://github.com/Unsigned-Long/River)] [[video](https://www.bilibili.com/video/BV15D421W7NX/)]
-- **RIs-Calib** (under review :sleeping:): a targetless multi-radar multi-IMU **spatiotemporal calibrator**. Related paper(s) :point_down::
-  - **S. Chen**, X. Li*, S. Li, Y. Zhou and S. Wang, RIs-Calib: An Open-Source Spatiotemporal Calibrator for Multiple 3D Radars And IMUs Based on Continuous-Time Estimation. arXiv:2408.02444 [cs.RO]. [[paper-arXiv](https://arxiv.org/abs/2408.02444)] [[code](https://github.com/Unsigned-Long/RIs-Calib)] [[video](https://www.bilibili.com/video/BV1pw411y7NR/?vd_source=87245258ec5029cca67d77cef1a6201d)]
+- **RIs-Calib**: a targetless multi-radar multi-IMU **spatiotemporal calibrator**. Related paper(s) :point_down::
+  - **S. Chen**, X. Li, S. Li, Y. Zhou and S. Wang, "RIs-Calib: An Open-Source Spatiotemporal Calibrator for Multiple 3D Radars and IMUs Based on Continuous-Time Estimation," in IEEE Transactions on Instrumentation and Measurement (TIM), 2024. [[paper](https://ieeexplore.ieee.org/document/10816177)] [[paper-arXiv](https://arxiv.org/abs/2408.02444)] [[code](https://github.com/Unsigned-Long/RIs-Calib)] [[video](https://www.bilibili.com/video/BV1pw411y7NR/?vd_source=87245258ec5029cca67d77cef1a6201d)]
 
 - **ELIC-Calib**: the extend version of `LIC-Calib`, a targetless continuous-time-based multi-LiDAR multi-IMU multi-camera **spatiotemporal calibrator**. Related paper(s) :point_down::
   - **S. Chen**, X. Li*, S. Li, Y. Zhou and S. Wang, "Targetless Spatiotemporal Calibration for Multiple Heterogeneous Cameras And IMUs Based on Continuous-Time Trajectory Estimation," in IEEE Transactions on Instrumentation and Measurement (TIM), 2023. [[paper](https://ieeexplore.ieee.org/document/10301598)]
