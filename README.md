@@ -28,11 +28,8 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 |[![RIs-Calib](img/ris-calib.png)](https://github.com/Unsigned-Long/RIs-Calib.git) | [![River](img/river.png)](https://github.com/Unsigned-Long/River.git) |[![MI-Calib](img/mi-calib.png)](https://github.com/Unsigned-Long/MI-Calib.git)|
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 
-| <a href="https://github.com/Unsigned-Long/iKalibr.git"><img align="center" src="img/iKalibr-logo.svg" alt="iKalibr" style="width: 100vw; height: auto;"/></a> |
-| :----------------------------------------------------------: |
-
-| <a href="https://github.com/Unsigned-Long/eKalibr.git"><img align="center" src="img/eKalibr-logo.svg" alt="eKalibr" style="width: 100vw; height: auto;"/></a> |
-| :----------------------------------------------------------: |
+| <a href="https://github.com/Unsigned-Long/iKalibr.git"><img align="center" src="img/iKalibr-logo.svg" alt="iKalibr" style="width: 100vw; height: auto;"/></a> |<a href="https://github.com/Unsigned-Long/eKalibr.git"><img align="center" src="img/eKalibr-logo.svg" alt="eKalibr" style="width: 100vw; height: auto;"/></a> |
+| :-------------------------------------: | :-------------------------------------: | 
 
 
 
