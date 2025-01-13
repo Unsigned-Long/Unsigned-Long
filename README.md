@@ -22,16 +22,25 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 + [**River**](https://github.com/Unsigned-Long/River.git): a continuous-time-based radar-inertial **velocity estimator**.
 + [**MI-Calib**](https://github.com/Unsigned-Long/MI-Calib.git): a continuous-time-based imu-only multi-IMU **spatiotemporal calibrator**.
 + **[iKalibr](https://github.com/Unsigned-Long/iKalibr.git)**: **unified** targetless spatiotemporal calibration for **resilient integrated inertial systems**.
++ **[eKalibr](https://github.com/Unsigned-Long/eKalibr.git)**: an **event-based** visual **calibrator**.
 
 
 |[![RIs-Calib](img/ris-calib.png)](https://github.com/Unsigned-Long/RIs-Calib.git) | [![River](img/river.png)](https://github.com/Unsigned-Long/River.git) |[![MI-Calib](img/mi-calib.png)](https://github.com/Unsigned-Long/MI-Calib.git)|
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 
-|<a href="https://github.com/Unsigned-Long/iKalibr.git"><img align="center" src="img/logo.svg" alt="iKalibr" style="width: 100vw; height: auto;"/></a>|
-| :-------------------------------------: |
+| <a href="https://github.com/Unsigned-Long/iKalibr.git"><img align="center" src="img/iKalibr-logo.svg" alt="iKalibr" style="width: 100vw; height: auto;"/></a> |
+| :----------------------------------------------------------: |
+
+| <a href="https://github.com/Unsigned-Long/eKalibr.git"><img align="center" src="img/eKalibr-logo.svg" alt="eKalibr" style="width: 100vw; height: auto;"/></a> |
+| :----------------------------------------------------------: |
+
+
 
 #### Research Works
 
+- **eKalibr**: an **event-based** visual **calibrator**. Related paper(s) :point_down::
+  - **S. Chen**, X. Li\*, L. Yuan, and Z. Liu. eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events[J]. arXiv preprint arXiv:2501.05688, 2025. [[paper-arXiv](https://arxiv.org/abs/2501.05688)] [[video](https://www.bilibili.com/video/BV1yKc1e8Edc)] [[code](https://github.com/Unsigned-Long/eKalibr.git)] [***Under Review***]
+  
 - **iKalibr**: a continuous-time, targetless, unified **spatiotemporal calibrator**. Related paper(s) :point_down::
   - **S. Chen**, X. Li*, S. Li\*, Y. Zhou, and X. Yang, "iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems," in IEEE Transactions on Robotics (TRO), 2025. [[paper-tro]()] [[paper-arXiv](https://arxiv.org/abs/2407.11420)] [[video 1](https://www.bilibili.com/video/BV1Dm421G7FV)] [[video 2](https://www.bilibili.com/video/BV1MFUGYGEpU)] [[code](https://github.com/Unsigned-Long/iKalibr.git)]
   - **S. Chen**, X. Li*, S. Li and Y. Zhou, "iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation," in IEEE Robotics and Automation Letters (RA-L), 2024. [[paper](https://ieeexplore.ieee.org/document/10759744)] [[paper-arXiv](http://arxiv.org/abs/2409.07116)] [[code](https://github.com/Unsigned-Long/iKalibr.git)]
