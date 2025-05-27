@@ -22,7 +22,7 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 <!-- + [**MI-Calib**](https://github.com/Unsigned-Long/MI-Calib.git): a continuous-time-based imu-only multi-IMU **spatiotemporal calibrator**. -->
 + **[iKalibr](https://github.com/Unsigned-Long/iKalibr.git)**: **unified** targetless spatiotemporal calibration for **resilient integrated inertial systems**.
 + **[River](https://github.com/Unsigned-Long/River.git)**: a continuous-time-based radar-inertial **velocity estimator**.
-+ **[eKalibr](https://github.com/Unsigned-Long/eKalibr.git)**: an **event-based** visual **calibrator**.
++ **[eKalibr](https://github.com/Unsigned-Long/eKalibr.git)**: an **event-based** visual intrinsic and spatiotemporal **calibrator**.
 
 
 <!-- |[![RIs-Calib](img/ris-calib.png)](https://github.com/Unsigned-Long/RIs-Calib.git) | [![River](img/river.png)](https://github.com/Unsigned-Long/River.git) |[![MI-Calib](img/mi-calib.png)](https://github.com/Unsigned-Long/MI-Calib.git)|
@@ -36,7 +36,7 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 #### Research Works
 
 - **eKalibr**: an **event-based** visual **calibrator**. Related paper(s) :point_down::
-  - **S. Chen**, X. Li\*, L. Yuan, and Z. Liu. eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events[J]. arXiv preprint arXiv:2501.05688, 2025. [[paper-arXiv](https://arxiv.org/abs/2501.05688)] [[video](https://www.bilibili.com/video/BV1yKc1e8Edc)] [[code](https://github.com/Unsigned-Long/eKalibr.git)] [***Under Review***]
+  - **S. Chen**, X. Li*, L. Yuan and Z. Liu, "eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events," in IEEE Robotics and Automation Letters (RA-L), 2025. [[paper-ral](https://ieeexplore.ieee.org/document/11012137)] [[paper-arXiv](https://arxiv.org/abs/2501.05688)] [[video](https://www.bilibili.com/video/BV1yKc1e8Edc)] [[code](https://github.com/Unsigned-Long/eKalibr.git)]
   - **S. Chen**, X. Li\*, and L. Yuan. eKalibr-Stereo: Continuous-Time Spatiotemporal Calibration for Event-Based Stereo Visual Systems[J]. arXiv preprint arXiv:2504.04451, 2025. [[paper-arXiv](https://arxiv.org/abs/2504.04451)] [[code](https://github.com/Unsigned-Long/eKalibr.git)]  [***Under Review***]
   
 - **iKalibr**: a continuous-time, targetless, unified **spatiotemporal calibrator**. Related paper(s) :point_down::
