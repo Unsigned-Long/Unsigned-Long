@@ -37,7 +37,8 @@ I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](h
 
 - **eKalibr**: an **event-based** visual **calibrator**. Related paper(s) :point_down::
   - **S. Chen**, X. Li*, L. Yuan and Z. Liu, "eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events," in IEEE Robotics and Automation Letters (RA-L), 2025. [[paper-ral](https://ieeexplore.ieee.org/document/11012137)] [[paper-arXiv](https://arxiv.org/abs/2501.05688)] [[video](https://www.bilibili.com/video/BV1yKc1e8Edc)] [[code](https://github.com/Unsigned-Long/eKalibr.git)]
-  - **S. Chen**, X. Li\*, and L. Yuan. eKalibr-Stereo: Continuous-Time Spatiotemporal Calibration for Event-Based Stereo Visual Systems[J]. arXiv preprint arXiv:2504.04451, 2025. [[paper-arXiv](https://arxiv.org/abs/2504.04451)] [[code](https://github.com/Unsigned-Long/eKalibr.git)]  [***Under Review***]
+  - **S. Chen**, X. Li*, and L. Yuan. eKalibr-Stereo: Continuous-Time Spatiotemporal Calibration for  Event-Based Stereo Visual Systems[J]. arXiv preprint arXiv:2504.04451, 2025. [[paper-arXiv](https://arxiv.org/abs/2504.04451)] [[video](https://www.bilibili.com/video/BV1LEu2zFE4X)] [[code](https://github.com/Unsigned-Long/eKalibr.git)] [**_Under Review_**]
+
   
 - **iKalibr**: a continuous-time, targetless, unified **spatiotemporal calibrator**. Related paper(s) :point_down::
   - **S. Chen**, X. Li*, S. Li\*, Y. Zhou, and X. Yang, "iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems," in IEEE Transactions on Robotics (T-RO), 2025. [[paper-tro](https://ieeexplore.ieee.org/document/10848334)] [[paper-arXiv](https://arxiv.org/abs/2407.11420)] [[video 1](https://www.bilibili.com/video/BV1Dm421G7FV)] [[video 2](https://www.bilibili.com/video/BV1MFUGYGEpU)] [[code](https://github.com/Unsigned-Long/iKalibr.git)]
