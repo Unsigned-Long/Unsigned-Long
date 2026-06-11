@@ -8,9 +8,19 @@
 </a>
 </p> 
 
+
 I'm currently a **Multi-Sensor Calibration Algorithm Engineer** at **[DJI](https://www.dji.com/)**, based in Shenzhen, Guangdong. My work focuses on calibration algorithms for multi-sensor systems, including LiDAR, camera (GS & RS), IMU, and radar.
 
 Before joining DJI, I received my master's degree from the School of Geodesy and Geomatics ([SGG](http://www.sgg.whu.edu.cn)), Wuhan University ([WHU](https://www.whu.edu.cn/)). My research interests include integrated navigation systems, multi-sensor fusion, continuous-time state estimation, and B-spline-based optimization :smiley:.
+
+<details>
+<summary>Chinese Profile</summary>
+
+我目前就职于 [DJI 大疆创新](https://www.dji.com/)，担任多传感器标定算法工程师，base 广东深圳。我的工作主要围绕 LiDAR、Camera，包括全局快门与卷帘快门相机、IMU、Radar 等多传感器系统的标定算法展开。
+
+在加入 DJI 之前，我硕士毕业于 [武汉大学](https://www.whu.edu.cn/) [测绘学院](http://www.sgg.whu.edu.cn/)。我的研究方向包括组合导航、多传感器融合、连续时间状态估计以及基于 B-spline 的优化方法 :smiley:。
+
+</details>
 
 #### About Me
 - Multi-Sensor Calibration Algorithm Engineer at [DJI](https://www.dji.com/), Shenzhen, Guangdong.
