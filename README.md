@@ -8,13 +8,16 @@
 </a>
 </p> 
 
-I'm currently a master candidate at the School of Geodesy and Geomatics ([SGG](http://www.sgg.whu.edu.cn)), Wuhan University ([WHU](https://www.whu.edu.cn/)). My area of research currently focuses on integrated navigation systems and multi-sensor fusion. I'm working on the continue-time-based (B-spline-based) state estimation currently :smiley:.
+I'm currently a **Multi-Sensor Calibration Algorithm Engineer** at **[DJI](https://www.dji.com/)**, based in Shenzhen, Guangdong. My work focuses on calibration algorithms for multi-sensor systems, including LiDAR, camera (GS & RS), IMU, and radar.
+
+Before joining DJI, I received my master's degree from the School of Geodesy and Geomatics ([SGG](http://www.sgg.whu.edu.cn)), Wuhan University ([WHU](https://www.whu.edu.cn/)). My research interests include integrated navigation systems, multi-sensor fusion, continuous-time state estimation, and B-spline-based optimization :smiley:.
 
 #### About Me
-
-- Student at [Wuhan University](https://www.whu.edu.cn/), E-Mail: shlchen@whu.edu.cn.
+- Multi-Sensor Calibration Algorithm Engineer at [DJI](https://www.dji.com/), Shenzhen, Guangdong.
+- Alumnus of [Wuhan University](https://www.whu.edu.cn/), School of Geodesy and Geomatics.
+- My interests include sensor calibration, state estimation, integrated navigation, and multi-sensor fusion.
+- I love photography, writing modern C++/Cplusplus, and creating funny toy libraries.
 - A brief introduction about me can be found [here](https://mp.weixin.qq.com/s?__biz=MzAwNzA1NjM1Nw==&mid=2650079632&idx=1&sn=8b6a07fe25428daef54f6ec1bbbd8d7e&chksm=82cc8e75e3675a0b2388fd2edc6952f711c142edf799660c8a76da582bd7ca89f022d9da58ed&sessionid=1720928399&scene=126&subscene=91&clicktime=1720928409&enterid=1720928409&ascene=3&fasttmpl_type=0&fasttmpl_fullversion=7291193-zh_CN-zip&fasttmpl_flag=0&realreporttime=1720928409600&devicetype=android-29&version=28003251&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_969f2b272795&countrycode=CN&exportkey=n_ChQIAhIQP0Ncs2B5Xxi6Y0%2BRQ%2F%2FhkhLxAQIE97dBBAEAAAAAAHf6NzquHPQAAAAOpnltbLcz9gKNyK89dVj06FXMJLN77Um0PuYLHhyqPTTpkTiykQpt%2Fm3tWXVt9HRRxnjfyjrt20DzXGWRPE4I3EkcYzkM9VbEaqcgbN6xeEfArSDaiVOFe%2BsiHvhrklgJ8%2BWYbaz2uyXpCJN62Ogla2r33tqm%2BW%2BQMV5TqKepnPfKPQXY9EK%2BXCe1hf%2BTES9cIS6qG69la4Ut6%2BEfbUg%2BUjuKTDpvFH8DLcqZOiGbydYBCc5pSWBnCUtrrYxb%2By0RlK0Q109AzcKNvHNHA2JFYN4CFxqj98lpBxI%3D&pass_ticket=KEmkSpAmOdDcUK%2B1AcTDibYbFBlUGXxd19IFfLyZquALngsj%2BIx24%2BYXkcVKgYw3&wx_header=3).
-- I love photography, I also love writing cpp (cplusplus) and creating funny toy libraries.
 - Ask me about anything [here](https://github.com/Unsigned-Long/Unsigned-Long/issues).
 
 #### Open-Source Works
